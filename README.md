@@ -2,6 +2,10 @@
 ### Contains DotNet Maui co-authored with ChatGPT
 ###### *This repository contains samples of how one can Leverage GPT-4 as a Co-Author to assist in building .NET MAUI Applications*
 
+This code sample app is designed to work on Windows. Microsoft Visual Studio Community 2022 (64-bit) - Current
+Version 17.5.3 was used and the OS - Windows 11 Version 22H2(OsBuild 22621.1413)
+
+
 ##### Introduction
 
 In recent years, artificial intelligence (AI) has transformed the way software developers work, making the development process faster, more efficient, and less error-prone. One such AI-driven technology is GPT-4, a powerful language model capable of generating human-like text. The purpose is to explore how GPT-4 can be used as a co-author for developing .NET MAUI (Multi-platform App UI) applications, focusing on code generation, best practices, and potential challenges.
