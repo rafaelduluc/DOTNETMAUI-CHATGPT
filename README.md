@@ -2,7 +2,7 @@
 ### Contains DotNet Maui co-authored with ChatGPT
 ###### *This repository contains samples of how one can Leverage GPT-4 as a Co-Author to assist in building .NET MAUI Applications*
 
-This code sample app is designed to work on Windows. Microsoft Visual Studio Community 2022 (64-bit) - Current
+This code sample app is designed to work on Windows. The development tool and environment used: Microsoft Visual Studio Community 2022 (64-bit) - Current
 Version 17.5.3 was used and the OS - Windows 11 Version 22H2(OsBuild 22621.1413)
 
 
